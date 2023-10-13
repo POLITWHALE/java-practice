@@ -15,6 +15,8 @@ Write a method `int factorial(int n)` that returns $n!$.
 
 4. Write a method `double power(double base, int exponent)` that calculuates and returns `base` raised to the power of `exponent`. <ins>Note:</ins> You are **NOT** allowed to use `Math.pow()` to help you.
 
+5. Write a method `boolean search(int[][] arr, int target)` that returns true iff `target` is found within the two-dimensional array `arr`.
+
 ## Classes and Polymorphism
 5. Create an abstract class `Account` with attributes `accountNumber` and `balance`, and abstract methods,
 - `void deposit(double amount)`, and
